@@ -1,8 +1,8 @@
 # What i learnt on Day 1
 
-- [ * ] installed type script using `npm i -g typescript`
-- [ * ] setting up a typescript config fle using`tsc --init`
-- [ * ] Primitives are immutable: they can't be altered
+- [x] installed type script using `npm i -g typescript`
+- [x] setting up a typescript config fle using`tsc --init`
+- [x] Primitives are immutable: they can't be altered
 
 ## primitive data
 
