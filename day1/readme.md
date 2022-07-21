@@ -1,8 +1,8 @@
 # What i learnt on Day 1
 
-- [*] installed type script using `npm i -g typescript`
-- [*] setting up a typescript config fle using`tsc --init`
-- [*] Primitives are immutable: they can't be altered
+- [ * ] installed type script using `npm i -g typescript`
+- [ * ] setting up a typescript config fle using`tsc --init`
+- [ * ] Primitives are immutable: they can't be altered
 
 ## primitive data
 
@@ -67,4 +67,5 @@ let firstname = new String('Danny');
 console.log(firstname); // String {'Danny'}
 ```
 [Read about the difference between primitive and refrence](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/#caveatprimitivevsreferencetypes)
+
 
