@@ -24,7 +24,32 @@ console.log(greet("mike"));
 const logger = (msg) => {
     console.log(msg);
 };
-// a dynamic type
+// a dynamic 
+// this is a varible thaat allows any data type
 let man;
 man = "cool";
 man = 10;
+//type aliases
+// This is very similar to interface and can be interchanged freely between each other
+// lets do some test
+// type Book = {
+//     name:String
+//     noOfPage:Number
+// }
+// interface Book_ {
+//     name:String,
+//     noOfPage:Number
+// }
+// let Book1 : Book;
+// let Book2 : Book_;
+// Book1 = {
+//     name: "cool",
+//     noOfPage: 10,
+//     // author: "mike"
+// }
+// Book2  = {
+//     name: "cool",
+//     noOfPage: 10,
+//     author: "mike"
+// }
+//  from the testing example above i will say  i have not yet discovered the difference between type aliase and interface'
