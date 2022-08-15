@@ -7,5 +7,5 @@ let books: object[] = [
 ]; // can only contain objects
 let arr: any[] = ['hello', 1, true]; // any basically reverts TypeScript back into JavaScript
 
-ids.push(6);
-ids.push('7'); // ERROR: Argument of type 'string' is not assignable to parameter of type 'number'.
+// ids.push(6);
+// ids.push('7'); // ERROR: Argument of type 'string' is not assignable to parameter of type 'number'.
